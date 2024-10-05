@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9efe27a-e526-4bd4-bcd3-a9a9179639c5" name="Changes" comment="" />
+    <list default="true" id="e9efe27a-e526-4bd4-bcd3-a9a9179639c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetspeedStanalone.py" beforeDir="false" afterPath="$PROJECT_DIR$/NetspeedStanalone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PingTestStandalone.py" beforeDir="false" afterPath="$PROJECT_DIR$/PingTestStandalone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace_route.py" beforeDir="false" afterPath="$PROJECT_DIR$/trace_route.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +28,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.NetspeedStanalone.executor": "Run",
+    "Python.PingTestStandalone.executor": "Run",
     "Python.main.executor": "Run",
     "Python.trace_route.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
